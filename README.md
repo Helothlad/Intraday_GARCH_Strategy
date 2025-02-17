@@ -1,4 +1,4 @@
-onditional Heteroskedasticity) model with intraday technical indicators to generate trading signals. The strategy aims to capitalize on short-term price movements by leveraging volatility forecasts and intraday price patterns.
+This project implements an intraday trading strategy that combines daily volatility predictions using a GARCH (Generalized Autoregressive Conditional Heteroskedasticity) model with intraday technical indicators to generate trading signals. The strategy aims to capitalize on short-term price movements by leveraging volatility forecasts and intraday price patterns.
 
 How It Works:
 Data Preparation:
@@ -59,3 +59,4 @@ Place the simulated daily and intraday data files in the specified folder.
 Run the script to generate trading signals, execute the strategy, and visualize the cumulative returns.
 
 This project is a demonstration of how volatility modeling and technical analysis can be combined to create a systematic intraday trading strategy. It is intended for educational purposes and can be extended or adapted for real-world applications.
+
